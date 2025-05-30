@@ -1,6 +1,6 @@
 🤖 Agente de Suporte NowGo IA
 
-Este é um chatbot inteligente feito para oferecer suporte técnico automatizado. Ele responde dúvidas com base em um FAQ interno e, se necessário, consulta uma inteligência artificial. Caso não consiga responder, encaminha a dúvida por e-mail para a equipe de suporte.
+Este é um chatbot inteligente feito em Python que oferece suporte técnico automatizado. Ele responde dúvidas com base em um FAQ interno e, se necessário, consulta uma inteligência artificial. Caso não consiga responder, encaminha a dúvida por e-mail para a equipe de suporte.
 
 
 🚀 Funcionalidades
