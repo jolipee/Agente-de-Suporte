@@ -2,12 +2,14 @@
 
 Este é um chatbot inteligente feito para oferecer suporte técnico automatizado. Ele responde dúvidas com base em um FAQ interno e, se necessário, consulta uma inteligência artificial. Caso não consiga responder, encaminha a dúvida por e-mail para a equipe de suporte.
 
+
 🚀 Funcionalidades
 
 - 🔎 Busca por respostas em um arquivo de **FAQ** (`faq.json`)
 - 🧠 Consulta a um modelo de linguagem natural (LLM) via **Hugging Face**
 - 📩 Encaminhamento automático de dúvidas não respondidas via **e-mail**
 - 💬 Interface simples via terminal
+  
 
 🗂️ Estrutura dos arquivos
 
@@ -17,6 +19,7 @@ Este é um chatbot inteligente feito para oferecer suporte técnico automatizado
 ├── faq.py - Leitura do FAQ (não usado diretamente no agente)
 ├── faq_manager.py - Funções para carregar e buscar respostas no FAQ
 ├── llm.py - Integração com modelo LLM (Mistral-7B-Instruct via HuggingFace)
+
 
 
 🧠 Como funciona
